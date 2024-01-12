@@ -1,0 +1,7 @@
+@inproceedings{REPO287,
+    author = "Pavlakos, Georgios and Choutas, Vasileios and Ghorbani, Nima and Bolkart, Timo and Osman, Ahmed AA and Tzionas, Dimitrios and Black, Michael J",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "10975--10985",
+    title = "{Expressive Body Capture: 3D Hands, Face, and Body from a Single Image}",
+    year = "2019"
+}
